@@ -64,7 +64,7 @@ async def start(b, m):
             return
     await StreamBot.send_photo(
     chat_id=m.chat.id,
-    photo="https://img.goodfon.com/wallpaper/big/9/db/dani-daniels-girl-sexy-pose-model-brunette.webp",
+    photo="https://images.lifestyleasia.com/wp-content/uploads/sites/7/2024/01/12154515/Mahesh-Babu-movies.jpg",
     caption= SRT_TXT.format(m.from_user.mention(style="md")),
     reply_markup=InlineKeyboardMarkup(
         [
